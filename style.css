@@ -432,9 +432,9 @@ footer li{
         font-size: 65%;
     }
     .simply-countdown>.simply-section{
-        width: 30px;
-        height: 30px;
-        padding: 40px;
+        width: 30px !important;
+        height: 30px !important;
+        padding: 20px !important;
         margin: 5px;
     }
     .mynavbar .nav-link{
